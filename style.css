@@ -37,12 +37,7 @@ body{
     margin-right: 200px;
 }
 
-.flex h1{
-    width: 20%;
-    text-align: center;
-    height: 50px;
-    
-}
+
 .flex-1{
    width: 20%;
    background-color:rgb(233, 225, 225);
@@ -57,7 +52,75 @@ body{
    border: 2px solid tomato;
    color: rgb(230, 60, 31);
 }
-.text-field{
-    text-decoration: dashed;
+.text-field input{
+   
+    width: 50%;
     text-align: center;
+    border-left: 0;
+    border-right: 0;
+    border-top: 0;
+    margin-left: 25%;
+    margin-right: 25%;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    
+   
+}
+.button-2{
+
+    text-align: center;
+    margin-top: 30px;
+}
+.header-3{
+    text-align: center;
+    margin-top: 100px;
+}
+.flex-plan{
+    display: flex;
+    text-align: left;
+   
+}
+.flex-plan-1{
+  
+    margin-left: 120px;
+    margin-right: 100px;
+    padding: 50px 100px 10px 50px;
+    background-color: rgb(217, 238, 241);
+    height: 300px;
+}
+.flex-plan-2{
+ 
+background-color: rgb(255, 227, 221);
+margin-right:100px;
+padding: 50px 100px 10px 50px;
+height: 300px;
+}
+.flex-plan-3{
+ 
+background-color: rgb(250, 249, 178);
+margin-right:100px;
+padding: 50px 100px 10px 50px;
+height: 300px;
+}
+.services-header{
+    text-align: center;
+    margin-top: 150px;
+}
+.services{
+    display: flex;
+   
+    text-align: center;
+    
+}
+.services div img{
+    width: 70%;
+  
+}
+.service-1{
+    margin-left: 80px;
+    margin-right: 80px;
+    box-shadow: 10px 10px 20px gray;
+    width: 100%;
+    border-radius: 8px;
+    
+    
 }
