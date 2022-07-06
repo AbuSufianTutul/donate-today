@@ -61,13 +61,13 @@ body {
 
 .text-field input {
 
-    width: 50%;
+    width: 60%;
     text-align: center;
     border-left: 0;
     border-right: 0;
     border-top: 0;
-    margin-left: 25%;
-    margin-right: 25%;
+    margin: 0 auto;
+    margin-left: 20%;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 }
 
