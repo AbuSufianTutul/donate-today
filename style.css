@@ -96,7 +96,6 @@ body {
     margin-right: 20px;
     padding: 30px 100px 10px 50px;
     background-color: rgb(217, 238, 241);
-
     border-radius: 5px;
 }
 
@@ -105,7 +104,6 @@ body {
     background-color: rgb(255, 227, 221);
     margin-right: 20px;
     padding: 30px 100px 10px 50px;
-
     border-radius: 5px;
 }
 
@@ -114,7 +112,6 @@ body {
     background-color: rgb(250, 249, 178);
     margin-right: 20px;
     padding: 30px 100px 10px 50px;
-
     border-radius: 5px;
 }
 
@@ -133,13 +130,12 @@ body {
 
 .services div img {
     width: 100%;
-
 }
 
 .service-1 {
     margin-left: 15px;
     margin-right: 15px;
-    box-shadow: 10px 10px 8px gray;
+    box-shadow: 5px 5px 20px gray;
     width: 100%;
     border-radius: 5px;
 }
