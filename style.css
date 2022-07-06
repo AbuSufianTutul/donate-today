@@ -32,7 +32,6 @@ body{
 }
 .flex{
     display: flex;
-    text-align: center;
     margin-left: 25%;
     margin-right: 25%;
 }
@@ -131,7 +130,7 @@ border-radius: 5px;
     
 }
 .email{
-    width: 50%;
+   
     text-align: center;
     margin-left: 20%;
     margin-right: 20%;
@@ -140,11 +139,11 @@ border-radius: 5px;
     
 
 }
-.email input{
-    width: 50%;
-    padding: 12px;
+.input{
+    
+    padding: 12px 20px 12px 20px;
     background-color: rgb(209, 204, 204);
-    color: white;
+    color: black;
     font-weight: 600;
     border:0;
     font-family: Arial, Helvetica, sans-serif;
@@ -170,4 +169,12 @@ footer h1{
 }
 footer p{
     color: white;
+}
+.button-last{
+    
+    background-color:rgb(192, 47, 21);
+    color: white;
+    font-weight: 600;
+    padding: 10px 30px;   
+    border: 0;
 }
