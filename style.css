@@ -2,10 +2,14 @@ body {
     font-family: 'Crete Round', serif;
     margin: 0;
 }
+.overlay{
+    width: 100%;
+    background-image: linear-gradient(to top,rgba(20,17,17,0.997),rgba(255,0,0,0));
+}
 
 .header-image {
     background-image: url(images/donation13.jpg);
-
+    width: 100%;
     background-size: cover;
     background-repeat: no-repeat;
 
